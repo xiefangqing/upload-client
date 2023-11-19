@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# 复杂文件上传
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+```
+功能：可以上传文件或目录，支持拖拽，表格显示要上传的所有文件，有进度跟踪，可以取消。
+使用框架：vue3 + vite + ant-design-vue
+项目运行：
+  1. npm i
+  2. npm run dev
+```
